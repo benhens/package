@@ -32,7 +32,7 @@
     "react-intersection-observer": "^9.15.1",
     "tailwind-merge": "^3.0.2",
     "tailwindcss-animate": "^1.0.7",
-    "cheerio": "1.0.0-rc.12"
+    "cheerio": "1.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
